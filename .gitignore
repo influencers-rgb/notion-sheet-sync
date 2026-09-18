@@ -1,5 +1,5 @@
 .env
-credentials/*.json
+google-service-account.json
 __pycache__/
 *.py[cod]
 .venv/
